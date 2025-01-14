@@ -1,2 +1,1 @@
-# RAS
 Residential Accounting System
